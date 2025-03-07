@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TravelBook
+
+  Created by Onur Bilke on 27.02.2025.
+  
+*/
+"place_name" = "Yer İsmi";
+"description" = "Açıklama";
+"save" = "Kaydet";
+"cancel" = "İptal";
+"alert_title" = "Konum Bilgileri";
+"alert_message" = "Lütfen isim ve açıklama giriniz";

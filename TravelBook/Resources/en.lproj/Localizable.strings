@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TravelBook
+
+  Created by Onur Bilke on 27.02.2025.
+  
+*/
+"place_name" = "Place Name";
+"description" = "Description";
+"save" = "Save";
+"cancel" = "Cancel";
+"alert_title" = "Location Info";
+"alert_message" = "Please enter name and description";
